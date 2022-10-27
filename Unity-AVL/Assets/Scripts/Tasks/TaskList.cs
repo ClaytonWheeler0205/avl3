@@ -10,6 +10,7 @@ public class TaskList : MonoBehaviour
         // new Debug_Task(),
         new GetCoordinates(),
         new GetLidar(),
+        new GetCamera(),
         new ChangeMode(),
         new Steer(),
         new Move()
